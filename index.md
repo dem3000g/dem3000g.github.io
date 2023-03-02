@@ -152,7 +152,7 @@ The number of people who this guide will help is ***very*** small, but the overa
 - Make the disassembly process much less intimidating and blind
 - Show the internals of what the DEM-3000 PSP Go-style prototype consist of.
 
-It is important to note from the latter point that the photos shown in this guide are not an exhaustive collection. You can find the full, unedited photos of this unit [at the PS Dev Wiki](insert-link-here).
+It is important to note from the latter point that the photos shown in this guide are not an exhaustive collection. You can find the full, unedited photos of this unit [at the PS Dev Wiki](https://playstationdev.wiki/psvitadevwiki/DEM-3000G).
 
 Thank you for reading, and let me know if this guide helped you preserve your own DEM-3000 prototype!
 
